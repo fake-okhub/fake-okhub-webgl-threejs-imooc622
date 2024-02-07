@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34aeccd7-d4b0-480b-9164-a8a7c1c74068" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/6.1 3d基础/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/public/font.json" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/public/font.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/public/vite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/public/vite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/assets/black-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/assets/black-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/assets/rain.png" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/assets/rain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/assets/smoke.png" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/assets/smoke.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/assets/snow.png" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/assets/snow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/assets/white-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/assets/white-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/base/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/base/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/ball.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/ball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/circle.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/circle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/cone.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/cone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/cylinder.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/cylinder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/fly.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/fly.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/font.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/font.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/points.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/points.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/radar.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/radar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/rain.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/rain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/road.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/road.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/smoke.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/smoke.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/snow.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/snow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/surroundLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/surroundLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/effect/wall.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/effect/wall.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/enter/city.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/enter/city.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/enter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/enter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/model/beijing.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/model/beijing.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/src/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/city/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/17. city/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three光源/半球光.html" beforeDir="false" afterPath="$PROJECT_DIR$/11.1 - 6three光源/半球光.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three光源/平行光.html" beforeDir="false" afterPath="$PROJECT_DIR$/11.1 - 6three光源/平行光.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three光源/点光源.html" beforeDir="false" afterPath="$PROJECT_DIR$/11.1 - 6three光源/点光源.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three光源/环境光.html" beforeDir="false" afterPath="$PROJECT_DIR$/11.1 - 6three光源/环境光.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three光源/聚光灯光源.html" beforeDir="false" afterPath="$PROJECT_DIR$/11.1 - 6three光源/聚光灯光源.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three几何体/二维圆.html" beforeDir="false" afterPath="$PROJECT_DIR$/13.1 - 11three几何体/二维圆.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three几何体/二维平面.html" beforeDir="false" afterPath="$PROJECT_DIR$/13.1 - 11three几何体/二维平面.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three几何体/圆柱体.html" beforeDir="false" afterPath="$PROJECT_DIR$/13.1 - 11three几何体/圆柱体.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three几何体/圆环.html" beforeDir="false" afterPath="$PROJECT_DIR$/13.1 - 11three几何体/圆环.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three几何体/多面体.html" beforeDir="false" afterPath="$PROJECT_DIR$/13.1 - 11three几何体/多面体.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three几何体/文字.html" beforeDir="false" afterPath="$PROJECT_DIR$/13.1 - 11three几何体/文字.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three几何体/球体.html" beforeDir="false" afterPath="$PROJECT_DIR$/13.1 - 11three几何体/球体.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three几何体/立方体.html" beforeDir="false" afterPath="$PROJECT_DIR$/13.1 - 11three几何体/立方体.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three几何体/纽结.html" beforeDir="false" afterPath="$PROJECT_DIR$/13.1 - 11three几何体/纽结.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three几何体/自定义二维图形.html" beforeDir="false" afterPath="$PROJECT_DIR$/13.1 - 11three几何体/自定义二维图形.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three加载外部文件/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/14.4 three加载外部文件/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three动画/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/three图片处理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/16.4 three图片处理/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three材质/Phong材质.html" beforeDir="false" afterPath="$PROJECT_DIR$/12.1 - 10three材质/Phong材质.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three材质/普通材质.html" beforeDir="false" afterPath="$PROJECT_DIR$/12.1 - 10three材质/普通材质.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three材质/法向材质.html" beforeDir="false" afterPath="$PROJECT_DIR$/12.1 - 10three材质/法向材质.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three材质/深度材质.html" beforeDir="false" afterPath="$PROJECT_DIR$/12.1 - 10three材质/深度材质.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three材质/直线和虚线.html" beforeDir="false" afterPath="$PROJECT_DIR$/12.1 - 10three材质/直线和虚线.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three材质/着色器材质.html" beforeDir="false" afterPath="$PROJECT_DIR$/12.1 - 10three材质/着色器材质.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three材质/联合材质.html" beforeDir="false" afterPath="$PROJECT_DIR$/12.1 - 10three材质/联合材质.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three材质/郎伯材质.html" beforeDir="false" afterPath="$PROJECT_DIR$/12.1 - 10three材质/郎伯材质.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three材质/面材质.html" beforeDir="false" afterPath="$PROJECT_DIR$/12.1 - 10three材质/面材质.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three添加灯光/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/9.3 three添加灯光/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three添加阴影/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/9.4 three添加阴影/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three添加雾化/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/9.5 three添加雾化/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three点击选取/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/14.3 three点击选取/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three相机控件/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/14.5 three相机控件/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three粒子/水波效果.html" beforeDir="false" afterPath="$PROJECT_DIR$/16.1 - 3three粒子/水波效果.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three粒子/粒子效果.html" beforeDir="false" afterPath="$PROJECT_DIR$/16.1 - 3three粒子/粒子效果.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three粒子/粒子组成立方体.html" beforeDir="false" afterPath="$PROJECT_DIR$/16.1 - 3three粒子/粒子组成立方体.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three纹理/canvas贴图.html" beforeDir="false" afterPath="$PROJECT_DIR$/15.1 - 5three纹理/canvas贴图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three纹理/凹凸贴图.html" beforeDir="false" afterPath="$PROJECT_DIR$/15.1 - 5three纹理/凹凸贴图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three纹理/基础纹理.html" beforeDir="false" afterPath="$PROJECT_DIR$/15.1 - 5three纹理/基础纹理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three纹理/法向贴图.html" beforeDir="false" afterPath="$PROJECT_DIR$/15.1 - 5three纹理/法向贴图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three纹理/环境贴图.html" beforeDir="false" afterPath="$PROJECT_DIR$/15.1 - 5three纹理/环境贴图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three辉光效果/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/15.6 three辉光效果/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three骨骼动画/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/14.6 three骨骼动画/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webgl入门/canvas.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.1 webgl入门/canvas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webgl入门/webgl.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.1 webgl入门/webgl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webgl坐标系/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.3 webgl坐标系/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/使用 varying 变量 - 绘制彩色三角形/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4.1 使用 varying 变量 - 绘制彩色三角形/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/使用多重纹理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4.4 使用多重纹理/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/使用缓冲区对象 - 绘制多个点/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.1 使用缓冲区对象 - 绘制多个点/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/修改点的颜色/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.6 修改点的颜色/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/光源/索引法-指定每个面的颜色.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.2 光源/索引法-指定每个面的颜色.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/光源/通过叉积计算法向量.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.2 光源/通过叉积计算法向量.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态入场/卷入卷出.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.11 动态入场/卷入卷出.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态入场/淡入淡出.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.11 动态入场/淡入淡出.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态入场/百叶窗.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.11 动态入场/百叶窗.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图形圆角/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.6 图形圆角/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图形复合变换 - 矩阵组合/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.10图形复合变换 - 矩阵组合/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图形复合变换 - 矩阵组合/mixMatrix.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.10图形复合变换 - 矩阵组合/mixMatrix.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图形平移 - 着色器/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.4 图形平移 - 着色器/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图形平移-平移矩阵/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.7 图形平移-平移矩阵/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图形旋转 - 着色器/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.6 图形旋转 - 着色器/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图形旋转-旋转矩阵/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.9 图形旋转-旋转矩阵/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图形添加背景图/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4.3 图形添加背景图/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图形缩放 - 着色器/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.5 图形缩放 - 着色器/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图形缩放-缩放矩阵/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.8 图形缩放-缩放矩阵/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多种图形绘制/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.3 多种图形绘制/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多缓冲区和数据偏移/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.2 多缓冲区和数据偏移/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多缓冲区和数据偏移/pointer.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.2 多缓冲区和数据偏移/pointer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学习使用 attribute 变量/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.4 学习使用 attribute 变量/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小球融合/gl_FragCoord.html" beforeDir="false" afterPath="$PROJECT_DIR$/5.8 小球融合/gl_FragCoord.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小球融合/gl_PointCoord.html" beforeDir="false" afterPath="$PROJECT_DIR$/5.8 小球融合/gl_PointCoord.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小球融合/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/5.8 小球融合/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/放大镜/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4.5 放大镜/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正射投影/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.2 正射投影/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/渲染三维对象/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/9.2 渲染三维对象/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/立方体绘制/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.4 - 5立方体绘制/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/立方体绘制/索引法-指定每个面的颜色.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.4 - 5立方体绘制/索引法-指定每个面的颜色.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/立方体绘制/索引法.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.4 - 5立方体绘制/索引法.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/绘制半透明物体/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/8.3 绘制半透明物体/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/绘制圆形的点/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/8.2 绘制圆形的点/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/贪吃蛇/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.7 贪吃蛇/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/透视投影/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.3 透视投影/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/通过鼠标控制绘制/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.5 通过鼠标控制绘制/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/雾化/索引法-指定每个面的颜色.html" beforeDir="false" afterPath="$PROJECT_DIR$/8.1 雾化/索引法-指定每个面的颜色.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G847BbPfi2KHrYUx3kYWaImFLR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yangbo/chrome/city-real-time/city/src/assets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/city/src/assets" />
+      <recent name="$PROJECT_DIR$/city/public" />
+      <recent name="$PROJECT_DIR$/city/src/model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34aeccd7-d4b0-480b-9164-a8a7c1c74068" name="Changes" comment="" />
+      <created>1665756706518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665756706518</updated>
+      <workItem from="1673335084166" duration="230000" />
+      <workItem from="1673354184673" duration="1630000" />
+      <workItem from="1673583751318" duration="46000" />
+      <workItem from="1673666228073" duration="48000" />
+      <workItem from="1673773604984" duration="5419000" />
+      <workItem from="1673922632708" duration="5585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
